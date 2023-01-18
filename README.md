@@ -1,6 +1,6 @@
 # Toxic Comment Classification
 
-This project classifies toxic comments using deep learning and Python. The dataset leveraged is originally from Kaggle, which provided a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. 
+This project classifies toxic comments using deep learning and Python. The dataset leveraged is originally from [Kaggle](https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/), which provided a large number of Wikipedia comments which have been labeled by human raters for toxic behavior. 
 The types of toxicity are:
 
 - `toxic`
