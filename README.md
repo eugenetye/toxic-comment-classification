@@ -10,7 +10,7 @@ The types of toxicity are:
 - `insult`
 - `identity_hate`
 
-A model which predicts the probability of each type of toxicity for each comment is created.
+A model which predicts the probability of each type of toxicity for each comment is created. Finally, the model is integrated into a Gradio app to be demoed.
 
 ## File Descriptions
 - `train.csv` - the training set, contains comments with their binary labels
